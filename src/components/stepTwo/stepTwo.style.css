@@ -1,0 +1,27 @@
+
+.step-two {
+    margin: 5%;
+}
+
+
+.gender {
+    display: flex;
+    justify-content: space-around;
+}
+
+.label {
+    font-size: 13px;
+}
+
+.input-text {
+    border-radius: 0px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    padding: 4% 3%;
+
+}
+
+.input {
+    margin: 3% 0;
+}

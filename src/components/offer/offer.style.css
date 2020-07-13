@@ -1,0 +1,37 @@
+
+
+.card {
+    text-align: center;
+    border-radius: 10px;
+    background: white;
+    margin: 2.5%;
+    padding: 2.5%;
+}
+
+.freeShipping {
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+.freeShipping p {
+    color: red;
+}
+
+.icon {
+    fill: red;
+    width: 2rem;
+}
+
+.offer {
+    background: blue;
+    border-radius: 10px;
+    padding: 5%;
+
+    text-align: center;
+
+    margin: 5%;
+
+}

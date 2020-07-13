@@ -1,0 +1,28 @@
+
+.off {
+    margin: 5%;
+
+    text-align: center;
+}
+
+
+.off-card {
+    
+    border-style: dashed;
+    border-radius: 10px;
+    border-color: red;
+    border-width: 1.5px;
+}
+
+.off-subcard {
+    font-size: 2.5rem;
+    margin: 2.5%;
+    padding: 5%;
+    background: red;
+    border-radius: 5px;
+    color: white;
+}
+
+.off-description {
+    margin: 2.5% auto;
+}

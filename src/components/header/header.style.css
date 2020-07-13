@@ -1,0 +1,15 @@
+
+.image{
+    background: white;
+    
+}
+
+.headerImage {
+    margin: 25px auto;
+    padding-bottom: 5%;
+    width: 80%;
+
+
+    display: flex;
+
+}

@@ -1,0 +1,17 @@
+
+.card-discount {
+    margin: auto;
+    padding: 5%;
+
+    background: white;
+    border-radius: 10px;
+    width: 80%;
+}
+
+.image-discount img{
+    margin: 5%;
+}
+
+.description-discount p {
+    font-size: 18px;
+}

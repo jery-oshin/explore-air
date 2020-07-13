@@ -1,0 +1,52 @@
+
+
+.step-one {
+    margin: 5%;
+}
+
+.step-one-subtitle {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: solid 0.5px;
+}
+
+.choose {
+    display: flex;
+    align-items: center;
+    margin: 2.5%  auto ;
+}
+
+.step-one-form .choose:first-child {
+    
+    background: yellow;
+    border-radius: 7px;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.choose-info {
+    align-items: center;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.choose-info p {
+    font-size: 11px;
+}
+
+
+.step-one-input {
+    margin: 2%;
+}
+
+.price {
+    margin: 0 10px;
+}
+
+.bestseller {
+    position: absolute;
+    width: 6%;
+    left: 11%;
+    
+}
