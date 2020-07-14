@@ -1,6 +1,15 @@
 .App {
   background:#f1f4f8;
 }
+
+@media (min-width: 720px) {
+  
+  .steps{
+    display: flex;
+  }
+
+}
+
 /*
 .App-logo {
   height: 40vmin;

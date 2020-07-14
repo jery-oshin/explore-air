@@ -3,7 +3,6 @@
 .productCard {
 
     margin: auto;
-
     width: 90%;
 
     background: white;
@@ -21,4 +20,14 @@
     width: 70%;
 
     display: flex;
+}
+
+@media (min-width: 650px) { 
+    .product {
+        
+        width: 50%;
+    }
+    .productCard {
+        display: flex;
+    }
 }

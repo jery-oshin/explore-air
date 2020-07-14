@@ -22,6 +22,7 @@
     border-radius: 7px;
     border-style: solid;
     border-width: 1px;
+    
 }
 
 .choose-info {
@@ -46,7 +47,47 @@
 
 .bestseller {
     position: absolute;
-    width: 6%;
-    left: 11%;
+    width: 10%;
+    left: -4%;
+    bottom: 2%;
     
 }
+.form-check div {
+    display: flex;
+    justify-content: space-between;
+}
+
+.articles .label {
+    display: block;
+}
+
+.form-check {
+    margin-top: 5px;
+}
+
+@media (min-width: 525px) { 
+
+    .bestseller {
+        width: 5%;
+        
+    }
+
+ }
+
+ @media (min-width: 720px) { 
+
+    .bestseller {
+        width: 10%;
+        
+    }
+
+ }
+
+ @media (min-width: 990px) { 
+
+    .bestseller {
+        width: 5%;
+        
+    }
+
+ }

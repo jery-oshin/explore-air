@@ -1,0 +1,64 @@
+
+
+.step-title {
+    margin-top: 40px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.step-four-header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.selection-qualifies {
+    width: 50%;
+}
+
+
+.step-four-logo{
+    width: 100%;
+}
+
+.explore-air-image{
+    width: 70%;
+}
+
+.explore-air-image img{
+    width: 100%;
+}
+
+.crdit-card-method {
+    display: flex;
+}
+
+.paypal-method {
+    display: flex;
+}
+
+.paypal img{
+    width: 30%;
+}
+
+.payment-card {
+    display: flex;
+    width: 100%;
+    padding: 5%;
+    border: solid 1px rgb(219, 219, 219);
+    border-radius: 10px;
+}
+.payment-card input {
+    position: static;
+    margin: 5px;
+}
+
+
+.type-of-card {
+    width: 100px;
+}
+
+.option {
+    display: flex;
+    align-items: center;
+    width: 50%;
+}

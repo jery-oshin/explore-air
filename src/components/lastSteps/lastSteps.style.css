@@ -1,0 +1,27 @@
+
+
+.last-steps {
+    border-radius: 20px;
+    background: white;
+    width: 95%;
+    margin: 2.5%;
+    padding: 5%;
+
+    border: solid 1px rgb(219, 219, 219);
+}
+
+@media (min-width: 720px) {
+  
+    .last-steps{
+      margin-left: 1.25%;
+    }
+  
+}
+
+@media (min-width: 990px) {
+  
+    .last-steps{
+      width: 40%;
+    }
+  
+}

@@ -1,0 +1,25 @@
+.footer {
+    text-align: center;
+}
+
+.security {
+    width: 100%;
+}
+
+.note {
+    margin: 5% auto;
+    font-size: 16px;
+    text-align: center;
+}
+
+.footer-nav {
+
+    display: block;
+    text-align: center;
+}
+
+.footer-nav a{
+    text-decoration: none;
+    font-size: 16px;
+    color: gray;
+}

@@ -2,8 +2,11 @@
 
 .step-five {
     margin: auto;
-    padding: 2.5%;
-    width: 85%;
+    width: 95%;
     background: white;
     font-size: 13px;
+}
+
+.payment-details {
+    width: 100%;
 }
